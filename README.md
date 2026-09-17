@@ -59,7 +59,6 @@ Emulator Android atau perangkat Android fisik
 Disarankan menggunakan Android 10 atau lebih baru.
 
 2. Clone Repository
-git clone https://github.com/username-lu/CWSMS.git
 cd CWSMS
 
 Ganti URL repository di atas dengan URL GitHub project yang sebenarnya.
